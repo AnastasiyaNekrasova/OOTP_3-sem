@@ -1,0 +1,7 @@
+E:\ООТП\Готовые ЛР\3-sem\LR_3\bin\Debug\LR_3.exe.config
+E:\ООТП\Готовые ЛР\3-sem\LR_3\bin\Debug\LR_3.exe
+E:\ООТП\Готовые ЛР\3-sem\LR_3\bin\Debug\LR_3.pdb
+E:\ООТП\Готовые ЛР\3-sem\LR_3\obj\Debug\LR_3.csproj.AssemblyReference.cache
+E:\ООТП\Готовые ЛР\3-sem\LR_3\obj\Debug\LR_3.csproj.CoreCompileInputs.cache
+E:\ООТП\Готовые ЛР\3-sem\LR_3\obj\Debug\LR_3.exe
+E:\ООТП\Готовые ЛР\3-sem\LR_3\obj\Debug\LR_3.pdb
