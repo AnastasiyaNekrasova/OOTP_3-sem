@@ -1,0 +1,19 @@
+Сборка: LR_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичные конструкторы:
+   House (Int32 id, Int32 floorQuan, Int32 apartQuan, String street, Int32 buildAge)
+   House ()
+Публичные методы:
+   Void AddApart (Int32 index)
+   Void WhichStreet (String street)
+   Void AddApart (Int32 index, Int32 apartNum, Single S, Int32 floor, Int32 roomQuan, String occupant)
+   Void apartList (Int32 roomQuan)
+   Void floorApartList (Int32 roomQuan, Int32 begFloor, Int32 endFloor)
+   static  Void GetAge (House& h)
+   static  Void Equals (House h1, House h2)
+   virtual Int32 GetHashCode ()
+   virtual String ToString ()
+   virtual Boolean Equals (Object obj)
+   Type GetType ()
+Интерфейсы:
+   Iface
+

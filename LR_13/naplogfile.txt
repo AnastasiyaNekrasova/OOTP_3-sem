@@ -1,0 +1,4 @@
+Log has been created at 07.12.2021 18:31:24
+07.12.2021 18:31:24 : An instance of the class NAPLog has been created
+07.12.2021 18:31:24 : An instance of the class
+07.12.2021 18:31:24 : NAPLog
